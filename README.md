@@ -2,8 +2,8 @@
 
 <ul>
   <li>It can scan QR code(2D) or Bar Code(1D) both.</li><br>
-  <li>I made this application using XML(frontend), Java(backend) and ZXing library.</li><br>
-  <li>In backend part,it has 3 main body : </li><br>
+  <li>I made this application using XML(frontend), Java(backend) and <b>ZXing library</b>.</li>
+  <li>In backend part,it has 3 main activity : </li><br>
   <ol type="1">
   <li>MainActivity.java(starting page with progress bar)</li>
   <li>HomeActivity.java(Welcome page + Scan Button)</li>
