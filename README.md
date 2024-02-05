@@ -11,3 +11,5 @@
 </ol>  
 </ul>  
 
+<h4><link rel="ZXing" href="https://github.com/zxing/zxing"> "Zebra Crossing" barcode scanning library</h4>
+<p>ZXing (“zebra crossing”) is an open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. ZXing is also hosted under Google Open Source Project.</p>
