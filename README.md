@@ -1,4 +1,4 @@
-<h3><b>ScaRX</b> is an android application</h3>
+<h3><b>ScanRX</b> is an android application</h3>
 
 <ul>
   <li>It can scan QR code(2D) or Bar Code(1D) both.</li><br>
