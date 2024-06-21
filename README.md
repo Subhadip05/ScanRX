@@ -1,7 +1,7 @@
 <h3><b>ScanRX</b> is an android application</h3>
 
 <ul>
-  <li>It can scan QR code(2D) or Bar Code(1D) both.</li><br>
+  <li>It can scan QR code(2D) or Bar Code(1D) both.</li>
   <li>I made this application using XML(frontend), Java(backend) and <b>ZXing library</b>.</li>
   <li>In backend part,it has 3 main activity : </li><br>
   <ol type="1">
